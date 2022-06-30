@@ -1,0 +1,17 @@
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\bin\Debug\TechGet.exe.config
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\bin\Debug\TechGet.exe
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\bin\Debug\TechGet.pdb
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\bin\Debug\DBLayer.dll
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.csproj.SuggestedBindingRedirects.cache
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.FrmUpdate.resources
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.FrmInput.resources
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.FrmLogin.resources
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.FrmProcurations.resources
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.FrmChooseOperation.resources
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.Properties.Resources.resources
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.csproj.CopyComplete
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.exe
+C:\Users\KORISNIK\Desktop\TechGet-master\TechGet-master\obj\Debug\TechGet.pdb
